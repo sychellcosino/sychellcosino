@@ -2,15 +2,19 @@
 
 <!--
 **sychellcosino/sychellcosino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+Im Sychell Cosino, and here are what I'm doing together with my skills
+
+1.	Providing chat/email/remote support to End Users
+2. Digital Content Management and Updates
+3. Up-to-date developments, and new ideas to draw audiences’ attention
+4. Content Management System Maintenance, Coding and Updates
+5. Pixel Injection
+6. Analytics and WordPress
+7. ***Knowledge in different languages***
+  a. HTML<br>
+  b. Java<br>
+  c. JavaScript<br>
+  d. C, C++, C#<br>
+  e. PHP<br>
+  f. SQL<br>
