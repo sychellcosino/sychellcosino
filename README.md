@@ -11,7 +11,7 @@ Im Sychell Cosino, and here are what I'm doing together with my skills
 4. Content Management System Maintenance, Coding and Updates
 5. Pixel Injection
 6. Analytics and WordPress
-7. ***Knowledge in different languages***
+7. ***Knowledge in different languages***<br>
   a. HTML<br>
   b. Java<br>
   c. JavaScript<br>
